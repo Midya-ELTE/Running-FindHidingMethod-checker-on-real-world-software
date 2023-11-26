@@ -2,7 +2,9 @@
 This repository contains the analysis reports of running the FindHidingMethod checker on some real-world software
 
 The link to the checker software -> https://github.com/NazirMuhammadZafarIqbal/spotbugs/tree/MET07
+
 The link to the public review, in the official spotbugs website -> https://github.com/spotbugs/spotbugs/pull/246
+
 
 
 The links to the analyzed software, using our checker:
