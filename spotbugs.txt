@@ -1,0 +1,10 @@
+M C HSBC: The method 'net.sf.saxon.expr.sort.NumericComparer11.getInstance()' in class 'net.sf.saxon.expr.sort.NumericComparer' hides a method in class 'NumericComparer11.java:[line 26]'. Declare the respective methods non-static or private to eradicate the problem.  At NumericComparer11.java:[line 26]
+
+M C HSBC: The method 'org.apache.logging.log4j.core.lookup.MainMapLookup.setMainArguments(String[])' in class 'org.apache.logging.log4j.core.lookup.MapLookup' hides a method in class 'MainMapLookup.java:[line 79]'. Declare the respective methods non-static or private to eradicate the problem.  At MainMapLookup.java:[line 79]
+
+M C HSBC: The method 'org.apache.logging.log4j.core.async.AsyncLoggerConfig.createLogger(boolean, Level, String, String, AppenderRef[], Property[], Configuration, Filter)' in class 'org.apache.logging.log4j.core.config.LoggerConfig' hides a method in class 'AsyncLoggerConfig.java:[line 294]'. Declare the respective methods non-static or private to eradicate the problem.  At AsyncLoggerConfig.java:[line 294]
+
+M C HSBC: The method 'org.apache.logging.log4j.core.async.AsyncLoggerConfig.includeLocation(String)' in class 'org.apache.logging.log4j.core.config.LoggerConfig' hides a method in class 'AsyncLoggerConfig.java:[line 301]'. Declare the respective methods non-static or private to eradicate the problem.  At AsyncLoggerConfig.java:[line 301]
+
+
+

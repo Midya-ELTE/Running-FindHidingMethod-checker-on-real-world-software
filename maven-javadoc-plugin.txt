@@ -1,0 +1,5 @@
+
+
+M C HSBC: The method 'org.tullmann.taglets.PatsReviewedBy.register(Map)' in class 'org.tullmann.taglets.ReviewedBy' hides a method in class 'PatsReviewedBy.java:[line 44]'. Declare the respective methods non-static or private to eradicate the problem.  At PatsReviewedBy.java:[line 44]
+M V EI: junit.swingui.DefaultFailureDetailView.getComponent() may expose internal representation by returning DefaultFailureDetailView.fList  At DefaultFailureDetailView.java:[line 75]
+M C HSBC: The method 'org.tullmann.taglets.JSR121ReviewedBy.register(Map)' in class 'org.tullmann.taglets.ReviewedBy' hides a method in class 'JSR121ReviewedBy.java:[line 42]'. Declare the respective methods non-static or private to eradicate the problem.  At JSR121ReviewedBy.java:[line 42]
